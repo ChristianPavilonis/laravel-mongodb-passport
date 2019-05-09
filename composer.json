@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "DesignMyNight\\Mongodb\\": "src"
+            "MongodbPassport\\Mongodb\\": "src"
         }
     },
     "authors": [
@@ -32,7 +32,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "DesignMyNight\\Mongodb\\MongodbPassportServiceProvider"
+                "MongodbPassport\\Mongodb\\MongodbPassportServiceProvider"
             ]
         }
     }

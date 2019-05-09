@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignMyNight\Mongodb\Auth;
+namespace MongodbPassport\Auth;
 
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Auth\Passwords\CanResetPassword;
